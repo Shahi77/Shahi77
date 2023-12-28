@@ -1,3 +1,4 @@
+![logo](![Banner](https://github.com/Shahi77/Shahi77/assets/100700808/1ad873a5-1197-4bb0-ad5e-1d756888cbe9))
 <h1 align="center">Hi 👋, I'm Shahi</h1>
 <h3 align="center">Web Developer | Backend Developer | Cloud computing enthusiast | Beginner in Docker and AWS | National Institute of Technology, Hamirpur'26</h3>
 <img align="right" alt="coding" width="400" 
