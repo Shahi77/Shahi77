@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d942296
 
 - 📫 How to reach me **shahi.201202@gmail.com**
 
-- 📄 [Resume](https://drive.google.com/file/d/1U_2HwlBpjbdllGHH9CMCIuxbslg2hRSd/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1-tsBBCEFjmXJZ9oimeVrtYzE-hpN-mtq/view?usp=sharing)
 
 - 🌐 [Portfolio](https://shahi-portfolio.netlify.app/)
 
